@@ -11,6 +11,10 @@
 A minimal [Aurelia][aurelia] starter kit written in [TypeScript][typescript] and
 built using [webpack][webpack].
 
+## Inital Setup
+
+Dependencies such as the Aurelia framework can be installed by running `npm install`
+
 ## Building
 
 The project can be built by running `npm run build` which will assemble the
